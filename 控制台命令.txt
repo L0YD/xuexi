@@ -12,3 +12,11 @@ cd e:   # 进入E盘
 ls  # 查看文件
 ls -l # 查看更详细的内容
 
+
+
+# 添加一个空文件qq.txt
+touch qq.txt
+
+# 删除qq.txt
+rm qq.txt
+
