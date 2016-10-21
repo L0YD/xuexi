@@ -1,0 +1,12 @@
+ping 域名/ip
+ipconfig  # 查看IP
+
+c:   # 进入C盘
+d:   # 进入D盘
+e:   # 进入E盘
+
+cd   # 进入目录
+cd \ # 跳到根目录
+
+dir  # 查看文件列表
+
