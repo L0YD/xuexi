@@ -34,3 +34,15 @@ sudo service apache2 start
 sudo service apache2 stop
 
 # web应用的目录/var/www/html/
+
+
+
+# 怎么执行PHP代码
+  php a.php
+
+
+
+
+
+
+
