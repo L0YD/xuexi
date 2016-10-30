@@ -23,3 +23,14 @@ touch qq.txt
 # 删除qq.txt
 rm qq.txt
 
+
+
+
+
+
+# 启动web服务器
+sudo service apache2 start
+# 停止web服务器
+sudo service apache2 stop
+
+# web应用的目录/var/www/html/
