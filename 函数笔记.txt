@@ -1,0 +1,8 @@
+count=计算数组元素个数
+
+$a=["a","b","c",];
+$c=count($a);
+for ($i=0; $i<$c; $i++){
+echo $a[$i].PHP_EOL;
+
+} 
